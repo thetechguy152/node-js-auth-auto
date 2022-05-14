@@ -1,0 +1,42 @@
+{
+  "name": "node-js-express-login-example",
+  "version": "1.0.0",
+  "description": "Node.js Express Login and Registration example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "start-gendoc": "node swagger.js"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "jwt",
+    "login",
+    "registration",
+    "rest api",
+    "authentication",
+    "authorization",
+    "sqlite"
+  ],
+  "author": "Chukwukere Obidi Ezinwoke",
+  "github-url": "https://github.com/thetechguy152/node-js-auth-auto ",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^7.5.1",
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.19.0",
+    "sqlite": "^4.1.1",
+    "sqlite3": "^5.0.8"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.4.1",
+    "swagger-autogen": "^2.21.1",
+    "swagger-ui-express": "^4.4.0"
+  }
+}

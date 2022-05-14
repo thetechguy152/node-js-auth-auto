@@ -1,6 +1,3 @@
-# node-js-auth-auto
-
-
 # Node.js Express Login and Registration example with JWT
 
 - Appropriate Flow for User Login and Registration with JWT Authentication
@@ -11,7 +8,6 @@
 
 ## User Registration, User Login and Authorization process.
 The diagram shows flow of how we implement User Registration, User Login and Authorization process.
-
 ## How to use the app
 during sign up dont use the roles column in the swagger
 doc signup just omit/ remve the roles, 
