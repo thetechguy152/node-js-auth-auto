@@ -13,11 +13,11 @@ during sign up dont use the roles column in the swagger
 doc signup just omit/ remve the roles, 
 
 manually  change the user role id number in the  controllers/auth.controller.js file on line 33
-    // user has role id =   1, 
+    //example  user has role id =   1 = user, 
     
-     where id 1 = user;
-           id 2 = customer;
-           id 3 = admin
+     where id number 1 = user;
+           id number 2 = customer;
+           id number 3 = admin
       const result = user.setRoles([3]);
 
 
