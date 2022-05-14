@@ -7,7 +7,6 @@
 - Way to use Sequelize to interact with SQLITE Database
 
 ## User Registration, User Login and Authorization process.
-The diagram shows flow of how we implement User Registration, User Login and Authorization process.
 ## How to use the app
 during sign up dont use the roles column in the swagger
 doc signup just omit/ remve the roles, 
