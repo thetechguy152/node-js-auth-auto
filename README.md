@@ -40,13 +40,23 @@ function initial() {
 
 ## examples of signed up credentials
 
-## username           ##   password
+{
+(for user role)
+username: any;
+password: any
+};
 
-##any                   ##any        ==  user role
-##chukwukere            ##any        === customer role
-##ezinwoke              ##any123457  == admin role
+{
+(for customer role)
+username: chukwukere
+password: any
+};
 
-
+{
+(for admin role)
+username: ezinwoke
+password: any123457
+};
 
 
 ## Project setup
