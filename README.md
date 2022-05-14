@@ -40,11 +40,11 @@ function initial() {
 
 ## examples of signed up credentials
 
-## username              password
+## username           ##   password
 
-any                   any        ==  user role
-chukwukere            any        === customer role
-ezinwoke              any123457  == admin role
+##any                   ##any        ==  user role
+##chukwukere            ##any        === customer role
+##ezinwoke              ##any123457  == admin role
 
 
 
