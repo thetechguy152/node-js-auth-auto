@@ -53,8 +53,8 @@ password: any
 
 {
 (for admin role)
-username: ezinwoke
-password: any123457
+username: ezinwoke1234
+password: any
 };
 
 
